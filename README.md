@@ -29,3 +29,8 @@ By completing these topics, you will be able to:
 - Implement secure GitOps workflows.
 - Monitor and troubleshoot Argo CD applications.
 - Build production-oriented multi-cluster GitOps deployments.
+
+🌟 Learn. Practice. Become an Engineer.
+Follow OpsWithDasari for practical DevOps tutorials, real-time projects, Linux administration, Shell Scripting, Cloud Computing, Docker, Kubernetes, Jenkins, and Terraform.
+
+Happy Learning! 🚀
